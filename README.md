@@ -1,4 +1,4 @@
-# React + Vite
+# Podcast repository with React + Vite
 
 Este repositorio recoge una lista de varios podcast.
 Tenemos 3 vistas donde podemos observar los distintos podcast, la información de cada uno de ellos y podremos también ver los episodios así como escucharlos.
