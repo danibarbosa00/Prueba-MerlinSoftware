@@ -1,8 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositorio recoge una lista de varios podcast.
+Tenemos 3 vistas donde podemos observar los distintos podcast, la información de cada uno de ellos y podremos también ver los episodios así como escucharlos.
 
-Currently, two official plugins are available:
+Al tener descargado el repositorio en nuestro ordenador seguiremos los siguientes comandos:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- npm install
+- npm run dev
+  Con estos comandos instalaremos todos los modulos necesarios y arrancaremos nuestra aplicación, solo nos queda pinchar en la opción como esta:
+  " Local: http://localhost:4173/"
