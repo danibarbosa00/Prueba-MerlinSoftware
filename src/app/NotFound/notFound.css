@@ -1,0 +1,6 @@
+.container-notFound {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  height: 70vh;
+}

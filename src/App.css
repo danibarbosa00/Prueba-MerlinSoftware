@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: "Arial", sans-serif;
+  line-height: 1.5;
+}
+.loading {
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  color: rgb(48, 120, 179);
+  font-weight: bold;
+}
