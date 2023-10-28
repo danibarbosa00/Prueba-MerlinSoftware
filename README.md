@@ -7,5 +7,5 @@ Al tener descargado el repositorio en nuestro ordenador seguiremos los siguiente
 
 - npm install
 - npm run dev
-  Con estos comandos instalaremos todos los modulos necesarios y arrancaremos nuestra aplicación, solo nos queda pinchar en la opción como esta:
-  " Local: http://localhost:4173/"
+Con estos comandos instalaremos todos los modulos necesarios y arrancaremos nuestra aplicación, solo nos queda pinchar en la opción como esta:
+" Local: http://localhost:4173/"
